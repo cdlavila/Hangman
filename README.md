@@ -1,2 +1,2 @@
 # Hangman
-Hangman Game developed in Dr: Racket
+Hangman Game developed in Dr. Racket
